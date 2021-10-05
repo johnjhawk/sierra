@@ -12,7 +12,7 @@ args:
         takes_value: true
     - local_only:
         short: l
-        long: long_only
+        long: local_only
         about: only view local branches
         takes_value: false
 
