@@ -1,0 +1,18 @@
+
+name: sierra
+version: "1.0"
+author: John Hawk <johnjhawk@gmail.com>
+about: Deletes git branches interactively.
+args:
+    - filter_in:
+        short: f
+        long: filter_in
+        value_name: FILTER
+        about: only show branches containing <FILTER> string
+        takes_value: true
+    - local_only:
+        short: l
+        long: long_only
+        about: only view local branches
+        takes_value: false
+

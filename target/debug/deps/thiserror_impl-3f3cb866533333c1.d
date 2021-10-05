@@ -1,0 +1,12 @@
+/home/hawk/code/rust/sierra/target/debug/deps/libthiserror_impl-3f3cb866533333c1.so: /home/hawk/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.29/src/lib.rs /home/hawk/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.29/src/ast.rs /home/hawk/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.29/src/attr.rs /home/hawk/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.29/src/expand.rs /home/hawk/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.29/src/fmt.rs /home/hawk/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.29/src/generics.rs /home/hawk/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.29/src/prop.rs /home/hawk/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.29/src/valid.rs
+
+/home/hawk/code/rust/sierra/target/debug/deps/thiserror_impl-3f3cb866533333c1.d: /home/hawk/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.29/src/lib.rs /home/hawk/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.29/src/ast.rs /home/hawk/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.29/src/attr.rs /home/hawk/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.29/src/expand.rs /home/hawk/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.29/src/fmt.rs /home/hawk/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.29/src/generics.rs /home/hawk/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.29/src/prop.rs /home/hawk/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.29/src/valid.rs
+
+/home/hawk/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.29/src/lib.rs:
+/home/hawk/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.29/src/ast.rs:
+/home/hawk/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.29/src/attr.rs:
+/home/hawk/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.29/src/expand.rs:
+/home/hawk/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.29/src/fmt.rs:
+/home/hawk/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.29/src/generics.rs:
+/home/hawk/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.29/src/prop.rs:
+/home/hawk/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.29/src/valid.rs:
