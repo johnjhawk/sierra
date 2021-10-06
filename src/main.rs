@@ -244,7 +244,7 @@ fn main() {
             set_color(Color::Yellow)?;
             write!(
                 stdout,
-                "No branches found. Igoring: {:?}\r\n",
+                "No branches found. Ignoring: {:?}\r\n",
                 indelible_branches
             )?;
         } else {
